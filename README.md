@@ -202,7 +202,7 @@ Thus,Creating a website for morning activities was executed successfully.
         <a href="academics.html">Academics</a>
         <a href="admission.html">Admission</a>
         <a href="gallery.html">Gallery</a>
-    </nav>
+    </nav> 
     <div class="container">
         <h2>Admission Form</h2>
         <form action="#" method="post">
